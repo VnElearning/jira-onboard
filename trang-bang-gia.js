@@ -9,3 +9,5 @@ console.log('Config chắc rồi =))()()()()()');
 
 // =====================================
 console.log('demo config lần 3');
+// ================================
+console.log('đã bị config lần 3');
