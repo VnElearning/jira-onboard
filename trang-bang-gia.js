@@ -1,0 +1,1 @@
+console.log('Trang bảng giá đã hoàn thành');
