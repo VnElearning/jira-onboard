@@ -3,3 +3,5 @@ console.log('Trang bảng giá đã hoàn thành 2');
 console.log('Trang bảng giá đã hoàn thành 3');
 console.log('Demo config');
 console.log('Đã bị config =))');
+// ===============================
+console.log('Demo confilg 2');
