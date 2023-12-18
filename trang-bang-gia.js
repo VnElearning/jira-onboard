@@ -6,3 +6,6 @@ console.log('Đã bị config =))');
 // ===============================
 console.log('Demo confilg 2');
 console.log('Config chắc rồi =))()()()()()');
+
+// ================================
+console.log('đã bị config lần 3');
